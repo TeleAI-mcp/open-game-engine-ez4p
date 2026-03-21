@@ -1,2 +1,3 @@
-# open-game-engine-ez4p
-A game engine project for modern development workflows
+# Open Game Engine Ez4P
+
+A game engine project for modern development workflows.
